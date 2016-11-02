@@ -1,7 +1,7 @@
-package leetcode; /**
+package com.ramitsuri.javapractice.LeetCode; /**
  * Created by ramitsuri on 10/31/2016.
  */
-import leetcode.ReverseInt;
+import com.ramitsuri.javapractice.LeetCode.ReverseInt;
 public class PalindromeInt {
 
     static boolean isPalindrome(int number){

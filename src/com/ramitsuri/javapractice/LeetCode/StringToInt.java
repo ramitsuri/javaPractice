@@ -1,4 +1,4 @@
-package leetcode;
+package com.ramitsuri.javapractice.LeetCode;
 
 /**
  * Created by ramitsuri on 10/31/2016.
